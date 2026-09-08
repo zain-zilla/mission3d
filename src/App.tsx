@@ -26,7 +26,7 @@ function MyModel({ neonColor }: { neonColor: string }) {
         }
     }, [gltf.scene, neonColor]);
 
-    useFrame((state, delta) => {
+    useFrame((_state, delta) => {
         if (meshRef.current) {
             meshRef.current.rotation.y += delta * 0.5
         }
