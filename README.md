@@ -4,7 +4,7 @@ An interactive, web-based 3D asset viewer built with React, TypeScript, and Thre
 
 **Live demo:** [mission3d.vercel.app](https://mission3d.vercel.app)
 
-<!-- Demo GIF goes here -->
+![Mission 3D Studio demo: rotating a 3D synth model and changing its colour live](docs/mission3d-demo.gif)
 
 ## 🛠️ Tech Stack
 * **Frontend:** React, TypeScript, Vite
