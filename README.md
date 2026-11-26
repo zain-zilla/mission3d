@@ -14,7 +14,7 @@ An interactive, web-based 3D asset viewer built with React, TypeScript, and Thre
 
 ## 🚀 Getting Started Locally
 1. Clone the repository.
-2. Navigate into the project folder: `cd 3d-portfolio`
+2. Navigate into the project folder: `cd mission3d`
 3. Install dependencies: `npm install`
 4. Run the development server: `npm run dev`
 
